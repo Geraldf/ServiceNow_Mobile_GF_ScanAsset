@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Work Order Task)">eb0bf5b997c4ed10ec97fbafe153af74</button>
+        <item_parameter display_value="Work Order Task company">2b0bf5b997c4ed10ec97fbafe153af72</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-29 07:32:23</sys_created_on>
+        <sys_id>ab0bf5b997c4ed10ec97fbafe153af7b</sys_id>
+        <sys_name>2b0bf5b997c4ed10ec97fbafe153af72</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_ab0bf5b997c4ed10ec97fbafe153af7b</sys_update_name>
+        <ui_parameter display_value="Company">a70bf5b997c4ed10ec97fbafe153af78</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

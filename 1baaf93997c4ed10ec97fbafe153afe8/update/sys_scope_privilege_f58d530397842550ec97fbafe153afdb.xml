@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>create</operation>
+        <source_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>geraldf</sys_created_by>
+        <sys_created_on>2023-01-02 11:55:01</sys_created_on>
+        <sys_id>f58d530397842550ec97fbafe153afdb</sys_id>
+        <sys_name>alm_hardware</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_update_name>sys_scope_privilege_f58d530397842550ec97fbafe153afdb</sys_update_name>
+        <target_name>alm_hardware</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>

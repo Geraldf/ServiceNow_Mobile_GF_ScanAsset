@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>alm_asset</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen/>
+        <item_view/>
+        <name>ScanAssetInput Screen List Item Config</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-01 15:53:19</sys_created_on>
+        <sys_id>e27a8f369784e150ec97fbafe153af2f</sys_id>
+        <sys_name>ScanAssetInput Screen List Item Config</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_update_name>sys_sg_master_item_e27a8f369784e150ec97fbafe153af2f</sys_update_name>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="ScanAssetInput Screen Card">ae7a0f369784e150ec97fbafe153af82</view_config>
+    </sys_sg_master_item>
+</record_update>

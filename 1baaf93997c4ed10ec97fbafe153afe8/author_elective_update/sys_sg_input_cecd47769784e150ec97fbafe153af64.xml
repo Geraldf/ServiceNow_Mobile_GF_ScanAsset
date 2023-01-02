@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input">
+    <sys_sg_input action="DELETE">
+        <active>true</active>
+        <autofill_variable/>
+        <category/>
+        <description/>
+        <label>Asset Number</label>
+        <mandatory>true</mandatory>
+        <name>AssetNumber</name>
+        <order/>
+        <page/>
+        <parameter_screen display_value="Scan New Asset input form screen">e86c87769784e150ec97fbafe153af71</parameter_screen>
+        <parameter_section/>
+        <placeholder/>
+        <readonly>false</readonly>
+        <sys_class_name>sys_sg_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-01 16:07:45</sys_created_on>
+        <sys_id>cecd47769784e150ec97fbafe153af64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset Number</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_update_name>sys_sg_input_cecd47769784e150ec97fbafe153af64</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-01 16:07:45</sys_updated_on>
+        <type display_value="String">7debec1517021010f2b43b9fadb959e3</type>
+    </sys_sg_input>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</application>
+        <file_path/>
+        <instance_id>31be340fdb765dd49df22f17d4961915</instance_id>
+        <instance_name>dev142912</instance_name>
+        <name>sys_sg_input_cecd47769784e150ec97fbafe153af64</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input"><sys_sg_input action="INSERT_OR_UPDATE"><active>true</active><autofill_variable/><category/><description/><label>Asset Number</label><mandatory>true</mandatory><name>AssetNumber</name><order/><page/><parameter_screen display_value="Scan New Asset input form screen">e86c87769784e150ec97fbafe153af71</parameter_screen><parameter_section/><placeholder/><readonly>false</readonly><sys_class_name>sys_sg_input</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-01 16:07:45</sys_created_on><sys_id>cecd47769784e150ec97fbafe153af64</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Asset Number</sys_name><sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package><sys_policy/><sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope><sys_update_name>sys_sg_input_cecd47769784e150ec97fbafe153af64</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-01 16:07:45</sys_updated_on><type display_value="String">7debec1517021010f2b43b9fadb959e3</type></sys_sg_input></record_update>]]></payload>
+        <payload_hash>-1299691773</payload_hash>
+        <record_name>Asset Number</record_name>
+        <reverted_from/>
+        <source>97aaf93997c4ed10ec97fbafe153afea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-01 16:07:45</sys_created_on>
+        <sys_id>cacd47769784e150ec97fbafe153af67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1856e16ca540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-01 16:07:45</sys_updated_on>
+        <type>Input</type>
+        <update_guid>06cd4776c984e15055d4440797c45867</update_guid>
+        <update_guid_history>06cd4776c984e15055d4440797c45867:-1299691773</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-01 21:12:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_input">sys_sg_input</sys_db_object>
+        <sys_id>4333573096c84e609d5dbdbb105bc400</sys_id>
+        <sys_metadata>cecd47769784e150ec97fbafe153af64</sys_metadata>
+        <sys_name>Asset Number</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_scope_delete display_value="">20e56da7add04174accc524aed67f810</sys_scope_delete>
+        <sys_update_name>sys_sg_input_cecd47769784e150ec97fbafe153af64</sys_update_name>
+        <sys_update_version display_value="sys_sg_input_cecd47769784e150ec97fbafe153af64">cacd47769784e150ec97fbafe153af67</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

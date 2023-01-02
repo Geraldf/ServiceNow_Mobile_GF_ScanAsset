@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="DELETE">
+        <alert/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="ScanAssetInput Screen Record Screen Icon">2a7a8f369784e150ec97fbafe153af22</icon>
+        <item_view/>
+        <name>ScanAssetInput Screen Record Screen</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-01 15:53:19</sys_created_on>
+        <sys_id>6e7a8f369784e150ec97fbafe153af24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScanAssetInput Screen Record Screen</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_update_name>sys_sg_form_screen_6e7a8f369784e150ec97fbafe153af24</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-01 15:53:19</sys_updated_on>
+        <table>alm_asset</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="ScanAssetInput Screen Record Screen Card">667a8f369784e150ec97fbafe153af20</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="DELETE" query="documentkey=6e7a8f369784e150ec97fbafe153af24"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</application>
+        <file_path/>
+        <instance_id>31be340fdb765dd49df22f17d4961915</instance_id>
+        <instance_name>dev142912</instance_name>
+        <name>sys_sg_form_screen_6e7a8f369784e150ec97fbafe153af24</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen"><sys_sg_form_screen action="INSERT_OR_UPDATE"><alert/><available_offline>false</available_offline><data_item/><description/><dynamic_prefetch_count/><empty_state/><fetch_type>not_required</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="ScanAssetInput Screen Record Screen Icon">2a7a8f369784e150ec97fbafe153af22</icon><item_view/><name>ScanAssetInput Screen Record Screen</name><override_context_with_data_item>false</override_context_with_data_item><roles_override/><segments_height>medium</segments_height><segments_min_width>medium</segments_min_width><sys_class_name>sys_sg_form_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-01 15:53:19</sys_created_on><sys_id>6e7a8f369784e150ec97fbafe153af24</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ScanAssetInput Screen Record Screen</sys_name><sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package><sys_policy/><sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope><sys_update_name>sys_sg_form_screen_6e7a8f369784e150ec97fbafe153af24</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-01 15:53:19</sys_updated_on><table>alm_asset</table><use_view_config>true</use_view_config><view_config display_value="ScanAssetInput Screen Record Screen Card">667a8f369784e150ec97fbafe153af20</view_config></sys_sg_form_screen><sys_translated_text action="delete_multiple" query="documentkey=6e7a8f369784e150ec97fbafe153af24"/></record_update>]]></payload>
+        <payload_hash>-514936693</payload_hash>
+        <record_name>ScanAssetInput Screen Record Screen</record_name>
+        <reverted_from/>
+        <source>97aaf93997c4ed10ec97fbafe153afea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-01 15:53:19</sys_created_on>
+        <sys_id>aa7a8f369784e150ec97fbafe153af27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1856e09921b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-01 15:53:19</sys_updated_on>
+        <type>Record screen</type>
+        <update_guid>e27a8f363384e150d344fa2646fc4027</update_guid>
+        <update_guid_history>e27a8f363384e150d344fa2646fc4027:-514936693</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-01 21:20:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_form_screen">sys_sg_form_screen</sys_db_object>
+        <sys_id>01d279f116b84c9f801ec3c157430941</sys_id>
+        <sys_metadata>6e7a8f369784e150ec97fbafe153af24</sys_metadata>
+        <sys_name>ScanAssetInput Screen Record Screen</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_scope_delete display_value="">20e56da7add04174accc524aed67f810</sys_scope_delete>
+        <sys_update_name>sys_sg_form_screen_6e7a8f369784e150ec97fbafe153af24</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_screen_6e7a8f369784e150ec97fbafe153af24">aa7a8f369784e150ec97fbafe153af27</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

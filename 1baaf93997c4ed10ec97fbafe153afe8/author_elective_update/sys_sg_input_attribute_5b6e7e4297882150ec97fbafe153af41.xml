@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input_attribute">
+    <sys_sg_input_attribute action="DELETE">
+        <input display_value="Asset Tag">a5ca328e97482150ec97fbafe153afc5</input>
+        <name>Inline</name>
+        <sys_class_name>sys_sg_input_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-30 07:05:13</sys_created_on>
+        <sys_id>5b6e7e4297882150ec97fbafe153af41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inline</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_update_name>sys_sg_input_attribute_5b6e7e4297882150ec97fbafe153af41</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-30 07:05:13</sys_updated_on>
+        <value>false</value>
+    </sys_sg_input_attribute>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</application>
+        <file_path/>
+        <instance_id>31be340fdb765dd49df22f17d4961915</instance_id>
+        <instance_name>dev142912</instance_name>
+        <name>sys_sg_input_attribute_5b6e7e4297882150ec97fbafe153af41</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input_attribute"><sys_sg_input_attribute action="INSERT_OR_UPDATE"><input display_value="Asset Tag">a5ca328e97482150ec97fbafe153afc5</input><name>Inline</name><sys_class_name>sys_sg_input_attribute</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-30 07:05:13</sys_created_on><sys_id>5b6e7e4297882150ec97fbafe153af41</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Inline</sys_name><sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package><sys_policy/><sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope><sys_update_name>sys_sg_input_attribute_5b6e7e4297882150ec97fbafe153af41</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-30 07:05:13</sys_updated_on><value>false</value></sys_sg_input_attribute></record_update>]]></payload>
+        <payload_hash>1343074675</payload_hash>
+        <record_name>Inline</record_name>
+        <reverted_from/>
+        <source>97aaf93997c4ed10ec97fbafe153afea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-30 07:05:13</sys_created_on>
+        <sys_id>df6e7e4297882150ec97fbafe153af43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18561d95d7d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-30 07:05:13</sys_updated_on>
+        <type>Input Attribute</type>
+        <update_guid>1b6e7e42df882150e0afb611f1f65543</update_guid>
+        <update_guid_history>1b6e7e42df882150e0afb611f1f65543:1343074675</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-30 07:08:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_input_attribute">sys_sg_input_attribute</sys_db_object>
+        <sys_id>3e62261da22f4896a647138a3abc5d64</sys_id>
+        <sys_metadata>5b6e7e4297882150ec97fbafe153af41</sys_metadata>
+        <sys_name>Inline</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_scope_delete display_value="">20e56da7add04174accc524aed67f810</sys_scope_delete>
+        <sys_update_name>sys_sg_input_attribute_5b6e7e4297882150ec97fbafe153af41</sys_update_name>
+        <sys_update_version display_value="sys_sg_input_attribute_5b6e7e4297882150ec97fbafe153af41">df6e7e4297882150ec97fbafe153af43</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

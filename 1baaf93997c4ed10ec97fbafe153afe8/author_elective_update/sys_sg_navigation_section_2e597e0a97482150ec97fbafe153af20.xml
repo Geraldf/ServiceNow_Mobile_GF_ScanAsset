@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section">
+    <sys_sg_navigation_section action="DELETE">
+        <active>true</active>
+        <card_size/>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <display_type>Icon</display_type>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>horizontal</orientation>
+        <required_roles/>
+        <row_count/>
+        <sys_class_name>sys_sg_navigation_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-30 06:43:03</sys_created_on>
+        <sys_id>2e597e0a97482150ec97fbafe153af20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Assets</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_2e597e0a97482150ec97fbafe153af20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-30 06:43:03</sys_updated_on>
+        <table/>
+        <title>New Assets</title>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_navigation_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</application>
+        <file_path/>
+        <instance_id>31be340fdb765dd49df22f17d4961915</instance_id>
+        <instance_name>dev142912</instance_name>
+        <name>sys_sg_navigation_section_2e597e0a97482150ec97fbafe153af20</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section"><sys_sg_navigation_section action="INSERT_OR_UPDATE"><active>true</active><card_size/><column_count/><custom_height/><custom_width/><data_item/><display_feed_count>false</display_feed_count><display_type>Icon</display_type><hide_header>false</hide_header><hide_section_if_empty>false</hide_section_if_empty><is_custom_size>false</is_custom_size><is_hidden_preference_name/><orientation>horizontal</orientation><required_roles/><row_count/><sys_class_name>sys_sg_navigation_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-30 06:43:03</sys_created_on><sys_id>2e597e0a97482150ec97fbafe153af20</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Assets</sys_name><sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package><sys_policy/><sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope><sys_update_name>sys_sg_navigation_section_2e597e0a97482150ec97fbafe153af20</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-30 06:43:03</sys_updated_on><table/><title>New Assets</title><visible_condition/><wide_column_count/></sys_sg_navigation_section></record_update>]]></payload>
+        <payload_hash>2036261007</payload_hash>
+        <record_name>New Assets</record_name>
+        <reverted_from/>
+        <source>97aaf93997c4ed10ec97fbafe153afea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-30 06:43:03</sys_created_on>
+        <sys_id>2a597e0a97482150ec97fbafe153af23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18561c512a10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-30 06:43:03</sys_updated_on>
+        <type>Icon section</type>
+        <update_guid>62597e0abf48215015ad34e50511d123</update_guid>
+        <update_guid_history>62597e0abf48215015ad34e50511d123:2036261007</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-30 06:43:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_navigation_section">sys_sg_navigation_section</sys_db_object>
+        <sys_id>28ebe476260f4440978383567c55c261</sys_id>
+        <sys_metadata>2e597e0a97482150ec97fbafe153af20</sys_metadata>
+        <sys_name>New Assets</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_scope_delete display_value="">20e56da7add04174accc524aed67f810</sys_scope_delete>
+        <sys_update_name>sys_sg_navigation_section_2e597e0a97482150ec97fbafe153af20</sys_update_name>
+        <sys_update_version display_value="sys_sg_navigation_section_2e597e0a97482150ec97fbafe153af20">2a597e0a97482150ec97fbafe153af23</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
