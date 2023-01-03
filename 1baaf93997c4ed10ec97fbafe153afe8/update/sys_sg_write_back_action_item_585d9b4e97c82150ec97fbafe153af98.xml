@@ -13,18 +13,20 @@
 		// does not exist, need to be added. 
 		getAsset.asset_tag=input.AssetNumber;
 		getAsset.po_number   = input.PO_Number;
-		var recResponse = getAsset.insert(handleResponse);
-	
+		getAsset.assigned  = new GlideDateTime().getDisplayValue();
+		getAsset.install_status = 6; // in Stock
+		
+		var theID = getAsset.insert();
+		if (theID){
+			gs.addInfoMessage("Record Added SysID=" + theID);
+		}
+		
 	}
 	
  
 })(input);
 
-function handleResponse(recResponse, answer) {
-		// Answer will be the sys_id of the created record or null
-		alert('Newly created sys_id is - ' + answer + ' exists');
-		gs.addInfoMessage("Record Added");
-}]]></execution_script>
+]]></execution_script>
         <name>Scan New Asset action item</name>
         <parameter_screen/>
         <query_condition/>

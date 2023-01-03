@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button/>
+        <button_parent_table/>
+        <carried>true</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>qr_barcode</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>PO Number</name>
+        <order/>
+        <parameter_type>screen</parameter_type>
+        <placeholder/>
+        <screen display_value="ScanAssetInput Screen">627a0f369784e150ec97fbafe153af7d</screen>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-03 17:19:44</sys_created_on>
+        <sys_id>e25131ef970c6550ec97fbafe153af98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PO Number</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_e25131ef970c6550ec97fbafe153af98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-03 17:19:44</sys_updated_on>
+        <table_name/>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=e25131ef970c6550ec97fbafe153af98"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</application>
+        <file_path/>
+        <instance_id>31be340fdb765dd49df22f17d4961915</instance_id>
+        <instance_name>dev142912</instance_name>
+        <name>sys_sg_ui_parameter_e25131ef970c6550ec97fbafe153af98</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button/><button_parent_table/><carried>true</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name/><input_source>user</input_source><input_style>inline</input_style><input_type>qr_barcode</input_type><mandatory>false</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>PO Number</name><order/><parameter_type>screen</parameter_type><placeholder/><screen display_value="ScanAssetInput Screen">627a0f369784e150ec97fbafe153af7d</screen><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-03 17:19:44</sys_created_on><sys_id>e25131ef970c6550ec97fbafe153af98</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PO Number</sys_name><sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package><sys_policy/><sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope><sys_update_name>sys_sg_ui_parameter_e25131ef970c6550ec97fbafe153af98</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-03 17:19:44</sys_updated_on><table_name/><virtual_field_value>false</virtual_field_value></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=e25131ef970c6550ec97fbafe153af98"/></record_update>]]></payload>
+        <payload_hash>-2124046919</payload_hash>
+        <record_name>PO Number</record_name>
+        <reverted_from/>
+        <source>b5df13c397842550ec97fbafe153af9b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-03 17:19:44</sys_created_on>
+        <sys_id>d471b1ef970c6550ec97fbafe153af13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18578a56b200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-03 17:19:44</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>1071b1ef840c6550eeeaf228893a8913</update_guid>
+        <update_guid_history>1071b1ef840c6550eeeaf228893a8913:-2124046919</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-03 17:42:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>0a9c7059ba1a4de48bda2b848492dc44</sys_id>
+        <sys_metadata>e25131ef970c6550ec97fbafe153af98</sys_metadata>
+        <sys_name>PO Number</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_scope_delete display_value="">20e56da7add04174accc524aed67f810</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_e25131ef970c6550ec97fbafe153af98</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_e25131ef970c6550ec97fbafe153af98">d471b1ef970c6550ec97fbafe153af13</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

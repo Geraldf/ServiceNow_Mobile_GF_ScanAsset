@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Use Part In My Inventory">306f5305e741230003cd6188d2f6a9c1</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Use Part</label>
+        <location>top</location>
+        <name>Use Part DH</name>
+        <order/>
+        <parent>630bf5b997c4ed10ec97fbafe153af66</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-29 16:04:45</sys_created_on>
+        <sys_id>9610fb75978ced10ec97fbafe153af5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Use Part DH</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_update_name>sys_sg_button_instance_9610fb75978ced10ec97fbafe153af5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-29 16:04:45</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=9610fb75978ced10ec97fbafe153af5b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</application>
+        <file_path/>
+        <instance_id>31be340fdb765dd49df22f17d4961915</instance_id>
+        <instance_name>dev142912</instance_name>
+        <name>sys_sg_button_instance_9610fb75978ced10ec97fbafe153af5b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Use Part In My Inventory">306f5305e741230003cd6188d2f6a9c1</button><color_theme/><description/><disable_offline>false</disable_offline><field_name/><icon/><label>Use Part</label><location>top</location><name>Use Part DH</name><order/><parent>630bf5b997c4ed10ec97fbafe153af66</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-29 16:04:45</sys_created_on><sys_id>9610fb75978ced10ec97fbafe153af5b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Use Part DH</sys_name><sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package><sys_policy/><sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope><sys_update_name>sys_sg_button_instance_9610fb75978ced10ec97fbafe153af5b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-29 16:04:45</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=9610fb75978ced10ec97fbafe153af5b"/></record_update>]]></payload>
+        <payload_hash>-1836327742</payload_hash>
+        <record_name>Use Part DH</record_name>
+        <reverted_from/>
+        <source>97aaf93997c4ed10ec97fbafe153afea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-29 16:04:45</sys_created_on>
+        <sys_id>c5507b75978ced10ec97fbafe153afb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1855ea0f8fe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-29 16:04:45</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>01507b75b28ced10ed4f5af62bc5fab3</update_guid>
+        <update_guid_history>01507b75b28ced10ed4f5af62bc5fab3:-1836327742</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-03 09:27:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>51e00af17e0542388b216194d1a98444</sys_id>
+        <sys_metadata>9610fb75978ced10ec97fbafe153af5b</sys_metadata>
+        <sys_name>Use Part DH</sys_name>
+        <sys_package display_value="GF Mobile Sacan" source="x_557984_gf_mobile">1baaf93997c4ed10ec97fbafe153afe8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GF Mobile Sacan">1baaf93997c4ed10ec97fbafe153afe8</sys_scope>
+        <sys_scope_delete display_value="">20e56da7add04174accc524aed67f810</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_9610fb75978ced10ec97fbafe153af5b</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_9610fb75978ced10ec97fbafe153af5b">c5507b75978ced10ec97fbafe153afb3</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
